@@ -1,3 +1,6 @@
 {
-  "RavenBot": false
+  "RavenBot": {
+    status: true,
+    link: https://github.com/KhangGia1810/RavenBot
+  }
 }
